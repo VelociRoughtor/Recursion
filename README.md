@@ -1,7 +1,7 @@
 # 🌀 Recursion – Striver's Playlist & DSA Sheet  
 
 <p align="center">
-  <img src="image.png" alt="Recursion Banner" width="600"/>
+  <img src="images.png" alt="Recursion Banner" width="600"/>
 </p>
 
 This repository contains my solutions to **Recursion problems** from:  
