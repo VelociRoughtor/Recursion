@@ -13,13 +13,13 @@ The goal is to **master recursion step by step** while tracking progress.
 ---
 
 ## 📂 Folder Structure
-
+```bash
 Recursion/
 │── Playlist/ 
 │── Sheet/ 
 │── image.png 
 │── README.md 
-
+```
 ---
 
 ## 🚀 Topics Covered
@@ -37,15 +37,15 @@ Recursion/
 - [x] Print 1 to N  
 - [x] Factorial of N  
 - [x] Fibonacci Numbers  
-- [ ] Subsequences of an Array  
-- [ ] Combination Sum  
-- [ ] N-Queens  
+- [x] Subsequences of an Array  
+- [x] Combination Sum  
+- [x] N-Queens  
 
 ### 📘 DSA Sheet Problems
 - [x] Subset Sum  
 - [x] Rat in a Maze  
-- [ ] Word Search  
-- [ ] Sudoku Solver  
+- [x] Word Search  
+- [x] Sudoku Solver  
 
 ---
 
@@ -59,8 +59,9 @@ g++ filename.cpp -o output
 # Run
 ./output
 
+```
 
-🎯 Goals
+## 🎯 Goals
 
 Strengthen recursion fundamentals.
 
@@ -68,6 +69,8 @@ Build a strong foundation for Backtracking & DP.
 
 Prepare effectively for coding interviews.
 
-🙌 Acknowledgements
+---
+
+## 🙌 Acknowledgements
 
 💡 @takeUforward (Striver)
