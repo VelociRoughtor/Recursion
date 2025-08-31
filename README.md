@@ -1,7 +1,7 @@
 # 🌀 Recursion – Striver's Playlist & DSA Sheet  
 
 <p align="center">
-  <img src="images.png" alt="Recursion Banner" width="600"/>
+  <img src="Images.png" alt="Recursion Banner" width="600"/>
 </p>
 
 This repository contains my solutions to **Recursion problems** from:  
@@ -74,3 +74,6 @@ Prepare effectively for coding interviews.
 ## 🙌 Acknowledgements
 
 💡 @takeUforward (Striver)
+
+## 📜 License
+This project is licensed under the [MIT License](./LICENSE).
