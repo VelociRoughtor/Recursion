@@ -1,0 +1,7 @@
+Definition
+----------
+When a function calls itself until a specified condition is met.
+
+The condition is called as base condition.
+
+If base condition is missing, recursion goes for infinite times (in theory). Computer prevents this by overflowing stack and shows a error called 'Segmentation fault'.
